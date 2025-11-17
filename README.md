@@ -1,5 +1,5 @@
-# 📘 Global Solution 2025/1  
-## Dynamic Programming – Otimização de Portfólio de Projetos
+# 📘 Global Solution 2025
+## Dynamic Programming
 
 ---
 
@@ -7,10 +7,8 @@
 
 **Curso:** Engenharia de Software  
 **Disciplina:** Dynamic Programming  
-**Professor:** Marcelo Amorim  
 **Semestre:** 2º Semestre / 2025  
 **Tema:** O Futuro do Trabalho  
-**Problema:** Otimização de Portfólio de Projetos (0/1 Knapsack)
 
 ---
 
@@ -18,11 +16,10 @@
 
 | Nome | RM |
 |------|------|
-| Gabriel Vallejo | *preencher* |
-| Integrante 2 | RM |
-| Integrante 3 | RM |
-| Integrante 4 | RM |
-| Integrante 5 | RM |
+| Gabriel Guerreiro Escobosa Vallejo | 554973 |
+| Lucas Catroppa Piratininga Dias | 555540 |
+| Luiz Felipe Coelho Ramos | 555074 |
+
 
 ---
 
@@ -140,30 +137,11 @@ A abordagem mais eficiente é a **Bottom-Up (Iterativa)**.
 
 ---
 
-# 📁 Estrutura do Projeto
-
-```
-📂 projeto-knapsack/
-│-- README.md
-│-- main.py
-│-- src/
-│     │-- greedy.py
-│     │-- recursive.py
-│     │-- memoization.py
-│     │-- bottomup.py
-│-- tests/
-│     │-- test_cases.py
-```
-
----
 
 # ▶️ Como Executar
 
-1. Clone o repositório:
+1. Baixe o repositório.
 
-```bash
-git clone https://github.com/<sua-organizacao>/<seu-repositorio>.git
-```
 
 2. Execute o arquivo principal:
 
@@ -172,13 +150,6 @@ python main.py
 ```
 
 3. O terminal exibirá o resultado das **4 fases**.
-
----
-
-# 📎 Licença
-
-Projeto acadêmico desenvolvido exclusivamente para a Global Solution FIAP 2025.  
-Uso permitido apenas para fins educacionais.
 
 ---
 

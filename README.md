@@ -1,8 +1,17 @@
 # 📘 Global Solution – Dynamic Programming  
-### Problema da Mochila 0/1 aplicado a Portfólio de Iniciativas  
+### Otimização no futuro do trabalho
 **FIAP – Engenharia de Software – 2025**  
 **Disciplina:** Dynamic Programming  
-**Professor:** Marcelo Amorim  
+
+---
+
+# 👥 Integrantes do Grupo
+
+| Nome | RM |
+|------|------|
+| Gabriel Guerreiro Escobosa Vallejo | 554973 |
+| Lucas Catroppa Piratininga Dias | 555540 |
+| Luiz Felipe Coelho Ramos | 555074 |
 
 ---
 
